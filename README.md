@@ -1,5 +1,6 @@
 # Ensemble_Methods
-Machine Learning
+## Machine Learning
+
 df_ppf.csv: Data Funding Dataset
 
 045041.ipynb: Contains the excutable code and the project report for the dataset
